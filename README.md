@@ -20,3 +20,5 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
                     
 SORU 2
 Big-O gösterimi:O(n logn)
+
+# www.patika.dev
